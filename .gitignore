@@ -4,3 +4,5 @@ gear_images\.zip
 gear_images/
 
 notebooks/config\.yaml
+
+notebooks/\.ipynb_checkpoints/
