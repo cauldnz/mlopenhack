@@ -6,3 +6,4 @@ gear_images/
 notebooks/config\.yaml
 
 notebooks/\.ipynb_checkpoints/
+/notebooks/gear_images_test/*
